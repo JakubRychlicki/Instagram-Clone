@@ -8,7 +8,7 @@ Project was created with help Expo. Whole app is created only by functional comp
 
 ## PHOTOS
 
-![1](https://user-images.githubusercontent.com/35461058/134734684-6263e6f1-a73f-4cf4-9847-7eab9b96e425.jpg | width=100)
+<img src="https://user-images.githubusercontent.com/35461058/134734684-6263e6f1-a73f-4cf4-9847-7eab9b96e425.jpg"  width="250"/>
 
 ## Features
 
