@@ -5,7 +5,7 @@ Project was created with help Expo. Whole app is created only by functional comp
 
 ## Presentation of App
 
-[<img src="https://imgur.com/gallery/VWjZdbC" width="50%">](https://youtu.be/-dNF0C12u38)
+[<img src="https://i.imgur.com/FtAmMsb.jpeg" width="50%">](https://youtu.be/-dNF0C12u38)
 
 ## Features
 
