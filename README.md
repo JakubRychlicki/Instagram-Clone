@@ -7,11 +7,11 @@ Project was created with help Expo. Whole app is created only by functional comp
 <a href="https://youtu.be/-dNF0C12u38" target="_blank">LINK TO VIDEO</a>
 
 ## PHOTOS
-
+<p float="left">
 <img src="https://user-images.githubusercontent.com/35461058/134734684-6263e6f1-a73f-4cf4-9847-7eab9b96e425.jpg"  width="250"/>
 <img src="https://user-images.githubusercontent.com/35461058/134734977-be904726-f6d0-4b46-aeda-5000be8c8eea.jpg"  width="250"/>
 <img src="https://user-images.githubusercontent.com/35461058/134735041-84271713-edb5-46c8-80cc-ff4c4c21cdd4.jpg"  width="250"/>
-
+</p>
 ## Features
 
 - Authorization
