@@ -14,6 +14,11 @@ Project was created with help Expo. Whole app is created only by functional comp
 <img src="https://user-images.githubusercontent.com/35461058/134734977-be904726-f6d0-4b46-aeda-5000be8c8eea.jpg"  width="250"/>
 <img src="https://user-images.githubusercontent.com/35461058/134735041-84271713-edb5-46c8-80cc-ff4c4c21cdd4.jpg"  width="250"/>
 </p>
+<p float="left">
+<img src="https://user-images.githubusercontent.com/35461058/134735339-3cafe631-d923-4283-bc79-024c2353f6dc.jpg"  width="250"/>
+<img src="https://user-images.githubusercontent.com/35461058/134735351-cd4c0bed-70d2-41f2-9ee7-133c17537905.jpg"  width="250"/>
+<img src="https://user-images.githubusercontent.com/35461058/134735813-833f6adf-1555-432c-80fa-8008e66fe7d6.PNG"  width="250"/>
+</p>
 
 
 ## Features
