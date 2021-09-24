@@ -33,7 +33,7 @@ Project was created with help Expo. Whole app is created only by functional comp
 - Following users
 - more in feature
 
-## Main Libraries
+## Libraries
 
 - expo
 - expo-camera
