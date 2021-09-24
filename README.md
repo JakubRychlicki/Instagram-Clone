@@ -5,7 +5,7 @@ Project was created with help Expo. Whole app is created only by functional comp
 
 ## Presentation of App
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/-dNF0C12u38 "Video Title")
+[<img src="https://img.youtube.com/vi/-dNF0C12u38>/maxresdefault.jpg" width="50%">](https://youtu.be/-dNF0C12u38)
 
 ## Features
 
