@@ -4,7 +4,11 @@ _Clone of the popular app Instagram_
 Project was created with help Expo. Whole app is created only by functional components. I used Firebase Firestore to save posts and users and by Firebase Storage i saved photos of posts and avatars users. The basic structure of the application was created with the help of a [guide on YT](https://www.youtube.com/watch?v=5S9HM6pprZo&list=PLxabZQCAe5fgatwOQny9wKJVs4YD6xkf1&index=2).
 
 ## Presentation of App
-<a href="https://youtu.be/-dNF0C12u38" target="_blank">external link</a>
+<a href="https://youtu.be/-dNF0C12u38" target="_blank">LINK TO VIEDO</a>
+
+## PHOTOS
+
+![1](https://user-images.githubusercontent.com/35461058/134734684-6263e6f1-a73f-4cf4-9847-7eab9b96e425.jpg | width=100)
 
 ## Features
 
